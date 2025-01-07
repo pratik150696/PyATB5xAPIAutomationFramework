@@ -4,26 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6b83debd-3a50-4897-96e4-3eeca4800da5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/PyATB5xAPIAutomationFramework.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RAEDME.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/constants/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/constants/api_constants.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/helpers/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/helpers/api_requests_wrapper.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/helpers/common_verification.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/helpers/payload_manager.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/testdata.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tests/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tests/test_sample.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/utils/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/utils/utils" afterDir="false" />
+    <list default="true" id="6b83debd-3a50-4897-96e4-3eeca4800da5" name="Changes" comment="API Automation Framework Creation">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RAEDME.md" beforeDir="false" afterPath="$PROJECT_DIR$/RAEDME.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +23,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "pratik150696"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/pratik150696/PyATB5xAPIAutomationFramework.git",
+    "accountId": "b015693c-2417-4bed-9c6a-479d91c75367"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -76,6 +71,35 @@
       <option name="presentableId" value="Default" />
       <updated>1736252228127</updated>
     </task>
+    <task id="LOCAL-00001" summary="API Automation Framework Creation">
+      <option name="closed" value="true" />
+      <created>1736258340425</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1736258340425</updated>
+    </task>
+    <task id="LOCAL-00002" summary="API Automation Framework Creation">
+      <option name="closed" value="true" />
+      <created>1736258435873</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1736258435873</updated>
+    </task>
+    <task id="LOCAL-00003" summary="API Automation Framework Creation">
+      <option name="closed" value="true" />
+      <created>1736258516826</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1736258516826</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="API Automation Framework Creation" />
+    <option name="LAST_COMMIT_MESSAGE" value="API Automation Framework Creation" />
   </component>
 </project>
