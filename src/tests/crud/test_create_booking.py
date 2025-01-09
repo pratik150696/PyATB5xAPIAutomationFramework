@@ -58,3 +58,4 @@ class TestCreateBooking(object):
             in_json= False
 
         )
+        verify_http_status_code(response_data=response, expected_data=500)
